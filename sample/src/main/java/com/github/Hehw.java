@@ -6,6 +6,6 @@ package com.github;
 public class Hehw
 {
     public static void main(String[] args) {
-        System.out.println("Hehehehe");
+        System.out.println("update-hehehehehhe");
     }
 }
